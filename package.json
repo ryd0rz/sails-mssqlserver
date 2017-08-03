@@ -83,9 +83,9 @@
     "underscore.string",
     "waterline-cursor"
   ],
-  "_id": "sails-mssqlserver@0.12.0",
-  "_shasum": "409ce5ffaae5c0da06cf25586f08cf84276b4de3",
-  "_from": "sails-mssqlserver@>=0.12.0 <0.13.0",
+  "_id": "sails-mssqlserver@0.14.3",
+  "_shasum": "54ed66dba4576bc84d3007fe7840b8a04ec5daa0",
+  "_from": "mistergf/sails-mssqlserver",
   "_npmVersion": "2.14.12",
   "_nodeVersion": "4.2.6",
   "_npmUser": {
@@ -107,6 +107,6 @@
     "tmp": "tmp/sails-mssqlserver-0.12.0.tgz_1465328264564_0.09408132312819362"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/sails-mssqlserver/-/sails-mssqlserver-0.12.0.tgz",
+  "_resolved": "git://github.com/mistergf/sails-mssqlserver.git#66ec80366f9e477c6af0c55174eb4892da971e6e",
   "readme": "ERROR: No README data found!"
 }
